@@ -1,0 +1,4 @@
+int main(int argc, char const *argv[])
+{
+    std::count<<"hola mundo\n"
+;}
